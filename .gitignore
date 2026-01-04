@@ -1,0 +1,25 @@
+# Node.js dependencies
+**/node_modules/
+
+# Logs
+**/logs
+**/*.log
+**/npm-debug.log*
+
+# Environment files
+**/.env
+
+# TypeScript build output
+**/dist/
+**/*.tsbuildinfo
+
+# React/Vite build output
+**/build/
+**/.vite/
+
+# VS Code settings
+.vscode/
+
+# OS temporary files
+.DS_Store
+Thumbs.db
